@@ -2,6 +2,15 @@ package main
 
 import "fmt"
 
+func main() {
+	basicExample()
+	variablesExample()
+	conditionals()
+	controlFlowExample()
+	functionsExample()
+	structsExample()
+}
+
 func conditionals() {
 	age := 11       // integer variable
 	day := "Sunday" // string variable
