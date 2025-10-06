@@ -9,6 +9,8 @@ func main() {
 	controlFlowExample()
 	functionsExample()
 	structsExample()
+	slicesAndMapsExample()
+	errorHandlingExample()
 }
 
 func conditionals() {
